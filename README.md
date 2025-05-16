@@ -1,4 +1,4 @@
-# Factors Influencing Student Performance: A Comprehensive Data Analysis Approach
+# Decoding Student Performance: Regression and Visualization Techniques
 
 This project investigates the factors influencing student performance using a dataset from Kaggle with 20 columns and 6,607 records. It employs data preprocessing, stepwise regression, polynomial fitting, and various visualizations to explore the impact of factors like attendance, study habits, and parental involvement on exam scores.
 
